@@ -7,7 +7,7 @@
     <ProjectGuid>{083C23BA-D921-401E-BBFC-86190266FD49}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Toastmaster.Runner</RootNamespace>
-    <AssemblyName>Toastmaster.Runner</AssemblyName>
+    <AssemblyName>Toastmaster</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
